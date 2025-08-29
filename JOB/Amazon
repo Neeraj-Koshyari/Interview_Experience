@@ -3,22 +3,59 @@ Position : SDE 1
 
 Form Submission in Amazon Job Portal: 8 July 2025
 
-Online Assessment Date : 11 July 2025 (have complete witn in 7 days of receiving Mail)
-Duration : 
-  Coding: 70 min
-  Work Simulation Questions: No Time Limit
-  Amazon Behavioral Question: No Time Limit
+Online Assessment Mail : 11 July 2025
+Duration : With-in 7 days of receiving assessment mail
+Coding: 70 min
+Work Simulation Questions: No Time Limit
+Amazon Behavioral Question: No Time Limit
 Venue : Online
 
 Coding Question Completed : 2 out of 2
 Result : Pass ( 16 July 2025 ) ( Got mail regarding clearing the OA and filling Hiring interest form. No Interview Mail ) 
 
-Interview : 11 Aug 2025 ( Rescheduled because joined TCS and free only in weekends )
-
 Interview : 
-Vanue : 
-Reporting time : 
+    Rescheduled from 11 Aug 2025 to 29 Aug 2025
+    Got calls 2-3 times in between for fixing the interview time and fixed last available slot.
 
-Experience : 
+Interview Round 1 : 29 AUG 2025
+Venue : Amazon Chime ( online )
+Time : 5 PM - 6 PM (1 hours Interview only)
+
+Round 1 Experience: 
+  There were 2 interviewer (one passing year 2024 (Anutosh) and other is of 2025 (Pratham Shalya))
+  First they both introduces them self and then i introduced my self.
+  Then started with one Amazon Principle question: What was the time you learn something like from your projects, current training etc.
+  
+Then Came 2 coding Question:
+  1. Given a number n in the form of string (0 < length(n) < 1e5). Your task is to find whether the number is divisible by 12 or not.
+  A number x is divisible by y if x mod y is equal to 0.
+
+  Sample:
+  Input - 4
+  Output - False
+
+  Input - 48
+  Output - True
+
+  2. Amazon operates a network of delivery hubs across different cities. Each hub has a service coverage radius within which it can 
+      activate and coordinate other hubs. When a hub is activated, it can automatically trigger activation of all hubs that fall 
+      within its services coverage area.
+      
+      Each hub is represented as a 2D integer array hubs where hubs[i] = [xi, yi, ri].
+      *  (xi, yi) denotes the geographical coordinates of the hub.
+      *  ri denotes the coverage radius of that hub.
+
+      You may choose to activate only one hub initially. Once activated, that hub can trigger all other hubs within its coverage. Those
+      hubs can further trigger the hubs within their coverage, and so on.
+      
+      Your task is to determine:
+        What is the maximum number of hubs that can be activated if you are allowed to start with only one hub?
+        
+        input: [[1,2,3],[2,3,1],[3,4,2],[4,5,3],[5,6,4]]
+        output: 3
+
+        Constraints:
+        1 <= n <= 100
+        1 <= xi,yi,ri <= 1e5
   
 Result : 
