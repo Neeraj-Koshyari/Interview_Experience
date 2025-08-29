@@ -37,6 +37,8 @@ Then Came 2 coding Question:
   Input - 48
   Output - True
 
+    -> Solved and explained (till here from the start of the meeting 30 min gone (5:30 PM))
+
   2. Amazon operates a network of delivery hubs across different cities. Each hub has a service coverage radius within which it can 
       activate and coordinate other hubs. When a hub is activated, it can automatically trigger activation of all hubs that fall 
       within its services coverage area.
@@ -57,5 +59,13 @@ Then Came 2 coding Question:
         Constraints:
         1 <= n <= 100
         1 <= xi,yi,ri <= 1e5
-  
+
+        -> Solved and explained with Brute Force solution but T.C. is O(n*n*log(n)) and the time was over (6:06 PM)
+
+    -> Interviewer(Anutosh): Any question:
+        -> What were the expatation from the candidates for this role? (sde1 -> dsa + amazon principle, sde2 - > dsa + system design + amazon principle)
+        -> What should i do for landing a job in Fang Company (DSA, CP, contest)
+        -> Any Feedback (feedback against the amazon polices)
+
+
 Result : 
