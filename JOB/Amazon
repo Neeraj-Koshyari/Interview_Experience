@@ -39,7 +39,8 @@ Then Came 2 coding Question:
 
     -> Solved and explained (till here from the start of the meeting 30 min gone (5:30 PM))
 
-  2. Amazon operates a network of delivery hubs across different cities. Each hub has a service coverage radius within which it can 
+  2. Link: https://leetcode.com/problems/detonate-the-maximum-bombs/description/
+    Amazon operates a network of delivery hubs across different cities. Each hub has a service coverage radius within which it can 
       activate and coordinate other hubs. When a hub is activated, it can automatically trigger activation of all hubs that fall 
       within its services coverage area.
       
@@ -68,4 +69,4 @@ Then Came 2 coding Question:
         -> Any Feedback (feedback against the amazon polices)
 
 
-Result : 
+Result : No mail for second round ( i.e. Rejected )
